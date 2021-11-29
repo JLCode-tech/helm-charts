@@ -1,4 +1,4 @@
-# magma-helm-charts
+# jlcode-tech-helm-charts
 ## Usage
 
 [Helm](https://helm.sh) must be installed to use the charts.  Please refer to
@@ -18,4 +18,4 @@ To install the <chart-name> chart:
 
 To uninstall the chart:
 
-    helm delete my-<chart-name>
+    helm delete <chart-name>

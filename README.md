@@ -1,1 +1,1 @@
-# magma-helm-charts
+#helm-charts
